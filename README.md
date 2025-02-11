@@ -1,12 +1,13 @@
 # MSA_SOC
 SOC Environment on Microsoft Azure
 
+<h3>Project:</h3>
 This project is both a SOC and honeynet built in Microsoft Azure to gain hands-on practical knowledge. We will take a look at attacks and also alerts from Microsoft Sentinel. The honeynet will then be hardened to prevent attacks and a variety of metrics such as the alerts triggered will be shown below. 
 
 The guide that we will be following for this project is from Phillip: https://www.youtube.com/watch?v=mOjbD7FkUUI
 
 
-Setup: Create VM with network rule that allows all inbound traffic for our honeypot.
+<h3>Setup:</h3> Create VM with network rule that allows all inbound traffic for our honeypot.
 
 ![image](https://github.com/user-attachments/assets/d3cf8635-536c-4c44-b368-db5333ce77f8)
 ![image](https://github.com/user-attachments/assets/95dd643d-9c1e-4678-b2ad-9b19db246a86)
