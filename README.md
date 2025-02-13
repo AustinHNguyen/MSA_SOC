@@ -74,3 +74,5 @@ The last workbook is the rdp authencation failures from trying to rdp into the h
 
 Now it is time to harden the network by removing the inbound rule and turning on Windows Defender. Those are the most simple ways since we created those vulnerabilies for testing, but there are a lot of ways to harden the network by following what Microsoft Defender for Cloud recommends.
 ![image](https://github.com/user-attachments/assets/30b7c2ca-f9a2-44ca-9f02-2f160929ecbe)
+
+After 2 days of leaving on the VM, we can take a look at the attack atempts and security events to see if the hardening was successful
